@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "933180377725",
+    "project_id": "siravet-nijinirundkul",
+    "storage_bucket": "siravet-nijinirundkul.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933180377725:android:5e6bd6cc6f5ef17a4b7f14",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb-j5jJiEA7Uumwk6YfmGtidm4n4CExxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
